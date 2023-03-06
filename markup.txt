@@ -1,0 +1,48 @@
+<div>
+                    <p>
+                        Learning to code as a beginner is not easy. Many beginners struggle along the way in their
+                        coding
+                        paths. Others don't know if they are headed in the right direction. How do you apply what what
+                        you're learning to build site project?
+                    </p>
+                    <p>You may have peers and colleagues that keep you motivated to keep coding. You may have tutorials
+                        and
+                        videos online that explains a programming concept in a better way.</p>
+                    <p>Again, you may signup for a bootcamp to help facilitate your coding progress.</p>
+                    <p>Finding a coding mentor
+                        is aslo a great solution to help you overcome learning obstacles.</p>
+                </div>
+
+
+
+                <div>
+                    <p>
+                        Coding mentor passes on their years of experience and knowledge, skills and best practices to
+                        the
+                        mentee. Coding is not just writing codes but it entails best practices, design patterns and many
+                        more.
+                    </p>
+                    <aside>"Some knowledge comes from years of buiding code not from books and courese."</aside>
+                </div>
+                <div>
+                    <p>A mentor can spot mistakes in mentees code than themselves. Having a knowledge and experienced
+                        mentor is often much more efficient and beneficial for the mentee. This will go a long way to
+                        improve the their coding skills which leads to time saving and money.</p>
+                </div>
+                <div>
+                    <p>Mentors can facilitate and encourage mentee to improve as well as making easier for them. Since
+                        the mentor has the experience and most likely gone through a similar path as a mentee is
+                        undertaken,, they should be able to direct them towards helpful careers, books, and programs for
+                        growth and development. Again, a mentor can identify areas for improvement, weaker points in a
+                        mentee's work which can result in fast growth</p>
+                </div>
+
+                <div>
+                    <p>Coding mentors passes knowledge and experience to mentees. They help to improve coding skills and
+                        lastly facilitate growth</p>
+                </div>
+
+                <div>
+                    <a class="cta" href="#">For coding mentor contact me</a>
+                </div>
+            </div>
